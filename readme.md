@@ -4,17 +4,17 @@ This project is for implementation of Q-Learning algorithm for world grid naviga
 
 ## Problem Statement
 
-Suppose that a robot is to traverse on a 10 x 10 grid, with the start state being the top-left cell and the goal state being the bottom-right cell, as is illustrated in Figure 1.
+Suppose that a robot is to traverse on a 10 x 10 grid, with the start state being the top-left cell and the goal state being the bottom-right cell, as is illustrated in Figure 1.
 
 <table>
   <tr>
     <td>
-      <img src="images/Figure1.png" alt="Fig. 1. Illustration of a 10  10 world grid with start state and goal state. The index of each cell follows the MATLAB column-wise convention." width="640" />
+      <img src="images/Figure1.png" alt="Fig. 1. Illustration of a 10 x 10 world grid with start state and goal state. The index of each cell follows the MATLAB column-wise convention." width="640" />
     </td>
   </tr>
   <tr>
     <td>
-      <strong>Fig. 1. Illustration of a 10  10 world grid with start state and goal state. The index of each cell follows the MATLAB column-wise convention.</strong>
+      <strong>Fig. 1. Illustration of a 10 x 10 world grid with start state and goal state. The index of each cell follows the MATLAB column-wise convention.</strong>
     </td>
   </tr>
 </table>
